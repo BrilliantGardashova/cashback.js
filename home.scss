@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f1d9;
+  }
+  #container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    div {
+        background-color: #fff;
+        width: 20%;
+        margin: 15px 35px;
+        border-radius: 8px;
+    }
+        img {
+            width: 80px;
+            height: 60px;
+            margin-left: 88px;
+            margin-top: 15px 
+        }
+        h2 {
+            font-size: 20px;
+            margin-left: 15px;
+        }
+        h4 {
+            font-size: 14px;
+            opacity: 0.5;
+            margin-left: 15px 
+        }
+      }
